@@ -9,10 +9,10 @@ body {
 .card {
   width: 20%;
   display: inline-block;
-  box-shadow: 2px 2px 20px rgba(3, 3, 3, 0.603);
+  box-shadow: 2px 2px 20px rgba(3, 3, 3, 0.781);
   border-radius: 5px;
   margin: 2%;
-  background-color: rgba(253, 249, 250, 0.575);
+  background-color: rgba(248, 250, 248, 0.575);
 }
 
 .image img {
