@@ -12,7 +12,7 @@ body {
   box-shadow: 2px 2px 20px rgba(3, 3, 3, 0.603);
   border-radius: 5px;
   margin: 2%;
-  background-color: rgba(238, 201, 210, 0.575);
+  background-color: rgba(253, 249, 250, 0.575);
 }
 
 .image img {
@@ -62,7 +62,7 @@ button {
 }
 
 body {
-  background-image: url(Images/sunset3.jpg);
+  background-image: url(Images/white.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
